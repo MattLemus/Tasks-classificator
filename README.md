@@ -48,14 +48,14 @@ Esto permite que el sistema **razone y explique sus decisiones**.
 
 El usuario ve algo como:
 
-
+```txt
 PLANIFICADOR DE TAREAS
 
 1. Agregar tarea
 2. Ver tareas
 3. Generar plan recomendado
 4. Salir
-
+```
 ## PLAN RECOMENDADO PARA HOY:
 
 1. Estudiar cálculo
@@ -66,5 +66,6 @@ PLANIFICADOR DE TAREAS
 
 3. Ordenar apuntes
    Motivo: No es urgente y puede esperar.
+
 
 

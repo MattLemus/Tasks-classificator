@@ -44,15 +44,27 @@ Esto permite que el sistema **razone y explique sus decisiones**.
 
 ---
 
-## Estructura del proyecto
+## Ejemplo de uso
 
-```txt
-task-planner-c/
-├─ src/        # Código fuente (.c)
-├─ include/    # Headers (.h)
-├─ docs/       # Documentación del proyecto
-├─ data/       # Datos de ejemplo (CSV / TXT)
-├─ tests/      # Pruebas básicas
-├─ Makefile    # Compilación
-├─ .gitignore  # Archivos ignorados por Git
-└─ README.md   # Este archivo
+El usuario ve algo como:
+
+
+PLANIFICADOR DE TAREAS
+
+1. Agregar tarea
+2. Ver tareas
+3. Generar plan recomendado
+4. Salir
+
+## PLAN RECOMENDADO PARA HOY:
+
+1. Estudiar cálculo
+   Motivo: Alta urgencia y fecha límite cercana.
+
+2. Hacer deber de historia
+   Motivo: Prioridad media y corta duración.
+
+3. Ordenar apuntes
+   Motivo: No es urgente y puede esperar.
+
+

@@ -56,6 +56,7 @@ PLANIFICADOR DE TAREAS
 3. Generar plan recomendado
 4. Salir
 ```
+```txt
 ## PLAN RECOMENDADO PARA HOY:
 
 1. Estudiar cálculo
@@ -66,6 +67,21 @@ PLANIFICADOR DE TAREAS
 
 3. Ordenar apuntes
    Motivo: No es urgente y puede esperar.
+```
+## Estrucutura del proyecto
+
+```txt
+task-planner-c/
+├─ src/        # Código fuente (.c)
+├─ include/    # Headers (.h)
+├─ docs/       # Documentación del proyecto
+├─ data/       # Datos de ejemplo (CSV / TXT)
+├─ tests/      # Pruebas básicas
+├─ Makefile    # Compilación
+├─ .gitignore  # Archivos ignorados por Git
+└─ README.md   # Este archivo
+```
+
 
 
 

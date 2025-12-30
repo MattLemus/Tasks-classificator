@@ -1,0 +1,1 @@
+float calculate_score();
